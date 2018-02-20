@@ -1,6 +1,6 @@
 {
   "name": "node-petname",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "A utility to generate \"pet names\", consisting of a random combination of adverbs, an adjective, and an animal name.",
   "main": "src/index.js",
   "scripts": {
@@ -11,7 +11,15 @@
     "url": "git+https://github.com/lcherone/node-petname.git"
   },
   "keywords": [
-    "library"
+    "library",
+    "utility",
+    "petname",
+    "petnames",
+    "pet-name",
+    "hostname",
+    "random",
+    "names",
+    "generate"
   ],
   "author": "Lawrence Cherone",
   "license": "MIT",
