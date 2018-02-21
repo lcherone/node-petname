@@ -1,6 +1,6 @@
 # Contributing
 
-Contributions and/or addtional features are very welcome.
+Contributions and/or additional features are very welcome.
 
 When contributing to this repository, please first discuss the change you wish to make via an issue before submitting your pull request.
 
