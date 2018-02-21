@@ -33,7 +33,7 @@ console.log('5, -', petname(5, '-')) // daily-shortly-factually-close-aphid
 
 ## Contributing
 
-Please see [CONTRIBUTING](CONTRIBUTING) for details.
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 
 ## Credits
